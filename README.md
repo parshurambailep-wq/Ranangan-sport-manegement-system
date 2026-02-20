@@ -172,14 +172,3 @@ git clone https://github.com/your-username/Ranangan-sport-manegement-system.git
 
 ## 📄 License
 
-This project is developed for educational purposes.
-
----
-
-If you want:
-✔ Badges (GitHub style)
-✔ Screenshots section design
-✔ Live Demo section
-✔ Deployment Guide
-
-Tell me 👍 I'll update this README more professional 🚀
