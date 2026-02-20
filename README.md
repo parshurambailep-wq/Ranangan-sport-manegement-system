@@ -18,16 +18,8 @@ Ranangan-sport-manegement-system/
 │   │   ├── TournamentCreate.java
 │   │   ├── MatchSchedule.java
 │   │   └── VenueSelection.java
-│   │
-│   ├── ticket/
-│   │   ├── TicketBooking.java
-│   │   ├── TicketAvailability.java
-│   │   └── BookingHistory.java
-│   │
-│   └── payment/
-│       ├── UpiPayment.java
-│       └── PaymentVerification.java
-│
+│   
+│   
 ├── WebContent/
 │   ├── META-INF/
 │   ├── WEB-INF/
